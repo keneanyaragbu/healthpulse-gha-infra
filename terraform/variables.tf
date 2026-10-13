@@ -53,3 +53,4 @@ variable "monitoring_instance_type" {
   description = "Instance type for the dedicated monitoring node group"
   type        = string
 }
+# test: trigger plan review pipeline
